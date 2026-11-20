@@ -3,14 +3,14 @@ Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Authors@R: c(
-    person(
-      "Jane", "Doe",
-      email = "jane@example.com",
-      role = c("aut", "cre")
-    )
+    person("Vladyslav", "Mysiv", email = "vladmysiv@gmail.com", role = c("aut", "cre")),
+    person("Joel Csadi", "Timothy", email = "joelcsadi@gmail.com", role = c("aut", "cre")),
+    person("Paul Kenny", "Malik", email = "paulkennymu@gmail.com", role = c("aut", "cre")),
+    person("Dmytro", "Bilevskyi", email = "bilevskyidmytro@gmail.com", role = c("aut", "cre"))
   )
 Description: More about what it does (maybe more than one line).
     Continuation lines should be indented.
-License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Depends: R (>= 4.6.0)
+URL: https://github.com/Fantom2017/ST403GroupProject
